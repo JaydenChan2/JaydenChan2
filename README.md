@@ -1,6 +1,6 @@
 # Hey👋
 
-My name is Jayden Chan and I'm a Computer Science Double & Business Administration Degree Student @ University of Waterloo& Wilfrid Laurier University.
+My name is Jayden Chan and I'm a Computer Science Double & Business Administration Degree Student @ University of Waterloo & Wilfrid Laurier University.
 
 ## What I'm Working On
 
