@@ -1,16 +1,22 @@
 ## Hi there 👋
 
-<!--
-**JaydenChan2/JaydenChan2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Jayden Chan | Developer & Student 💻
 
-Here are some ideas to get you started:
+Building software that solves problems, from firmware for space to AI for personal analysis.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I’m up to:
+* **Chud.ai**: Developing AI-driven analysis for facial geometry.
+* **Firmware**: Deep-diving into C through the **UW Orbital** and **UWARG** bootcamps.
+* **Creative Tools**: Working on a converter to turn MP3/MP4 files into guitar tabs.
+* **Housing**: Created a personalized roommate matching app called **Roomies**.
+
+## My Tech Stack
+
+### Languages & Core
+[![My Skills](https://skillicons.dev/icons?i=py,cpp,c,java,html,css,bash&theme=dark)](https://skillicons.dev)
+
+### Frameworks & Libraries
+[![My Skills](https://skillicons.dev/icons?i=tensorflow,flask,sklearn&theme=dark)](https://skillicons.dev)
+
+### Tools & Platforms
+[![My Skills](https://skillicons.dev/icons?i=git,github,linux,apple,visualstudio)](https://skillicons.dev)
