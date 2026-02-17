@@ -1,4 +1,4 @@
-# Hi👋 Nice to Meet You!
+# Hey👋
 
 My name is Jayden Chan and I'm a Business Administration & Computer Science Double Degree Student @ Wilfrid Laurier University & University of Waterloo.
 
