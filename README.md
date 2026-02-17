@@ -6,7 +6,6 @@ Building software that solves problems, from firmware for space to AI for person
 
 ### What I’m up to:
 * **Chud.ai**: Developing AI-driven analysis for facial geometry.
-* **Firmware**: Deep-diving into C through the **UW Orbital** and **UWARG** bootcamps.
 * **Creative Tools**: Working on a converter to turn MP3/MP4 files into guitar tabs.
 * **Housing**: Created a personalized roommate matching app called **Roomies**.
 
