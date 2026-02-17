@@ -1,13 +1,12 @@
-## Hi there 👋
+# Hi👋 Nice to Meet You!
 
-## Jayden Chan | Developer & Student 💻
+My name is Jayden Chan and I'm a Business Administration & Computer Science Double Degree Student @ Wilfrid Laurier University & University of Waterloo.
 
-Building software that solves problems, from firmware for space to AI for personal analysis.
+## What I'm Working On
 
-### What I’m up to:
-* **Chud.ai**: Developing AI-driven analysis for facial geometry.
-* **Creative Tools**: Working on a converter to turn MP3/MP4 files into guitar tabs.
-* **Housing**: Created a personalized roommate matching app called **Roomies**.
+* 🧬 **[Chud.ai](https://github.com/JaydenChan2/chud-ai)** — AI-driven facial geometry analysis using **Computer Vision**.
+* 🎸 **[Creative Tools](https://github.com/JaydenChan2/Music-to-Sheet-Converter)** — Converting MP3/MP4 audio into playable **guitar tabs**.
+* 🏠 **[Roomies](https://github.com/JaydenChan2/Roomies)** — Personalized roommate matching app for student housing.
 
 ## My Tech Stack
 
@@ -18,4 +17,9 @@ Building software that solves problems, from firmware for space to AI for person
 [![My Skills](https://skillicons.dev/icons?i=tensorflow,flask,sklearn&theme=dark)](https://skillicons.dev)
 
 ### Tools & Platforms
-[![My Skills](https://skillicons.dev/icons?i=git,github,linux,apple,visualstudio)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,linux,apple,visualstudio&theme=dark)](https://skillicons.dev)
+
+---
+
+### Connect with me:
+🌍 [Portfolio](https://jayden-chan.vercel.app/)
