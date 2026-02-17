@@ -11,7 +11,7 @@ My name is Jayden Chan and I'm a Business Administration & Computer Science Doub
 ## My Tech Stack
 
 ### Languages & Core
-[![My Skills](https://skillicons.dev/icons?i=py,cpp,c,java,html,css,bash&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,js,cpp,c,java,html,css,bash&theme=dark)](https://skillicons.dev)
 
 ### Frameworks & Libraries
 [![My Skills](https://skillicons.dev/icons?i=tensorflow,flask,sklearn&theme=dark)](https://skillicons.dev)
