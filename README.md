@@ -19,7 +19,7 @@
 
 ```ts
 const jayden = {
-  program:   "CS & BBA Double Degree @ UWaterloo + Wilfrid Laurier (2025–2030)",
+  program:   "CS & BBA Double Degree @ UWaterloo + Wilfrid Laurier (2026–2030)",
   role:      "Autonomy Engineer @ Waterloo Aerial Robotics Group (WARG)",
   focus:     ["Computer Vision", "Full-Stack Dev", "AI/ML", "Entrepreneurship"],
   currently: "Building things that merge code with the real world",
@@ -124,19 +124,6 @@ AI-driven **facial geometry analysis** using Computer Vision. Extracts facial la
 **Concepts**
 
 `RAG Pipelines` &nbsp;`LLMs` &nbsp;`Computer Vision` &nbsp;`Digital Signal Processing` &nbsp;`JWT Authentication` &nbsp;`RESTful APIs` &nbsp;`Agile Development`
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<a href="https://github.com/JaydenChan2">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=JaydenChan2&show_icons=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaydenChan2&layout=compact&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&langs_count=8" />
-</a>
-
-</div>
 
 ---
 
