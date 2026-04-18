@@ -19,7 +19,7 @@
 
 ```ts
 const jayden = {
-  program:   "CS & BBA Double Degree @ UWaterloo + Wilfrid Laurier (2026–2030)",
+  program:   "CS & BBA Double Degree @ UWaterloo + Wilfrid Laurier (2025–2030)",
   role:      "Autonomy Engineer @ Waterloo Aerial Robotics Group (WARG)",
   focus:     ["Computer Vision", "Full-Stack Dev", "AI/ML", "Entrepreneurship"],
   currently: "Building things that merge code with the real world",
