@@ -132,7 +132,7 @@ AI-driven **facial geometry analysis** using Computer Vision. Extracts facial la
 | Role | Org | Period |
 |------|-----|--------|
 | 🚁 Autonomy Engineer | Waterloo Aerial Robotics Group | Present |
-| 🤖 AI Instructor | FuturIQ Inc. | 2024 |
+| 🤖 AI Instructor | DPCDSB | 2024 |
 | 💻 Software Developer Intern | FuturIQ Inc. | 2023 – 2024 |
 
 ---
