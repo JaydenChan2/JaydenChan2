@@ -3,7 +3,7 @@
 # Jayden Chan
 ### CS & BBA Double Degree @ University of Waterloo + Wilfrid Laurier
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=500&lines=Autonomy+Engineer+%40+WARG+%F0%9F%9A%81;Computer+Vision+%26+AI+%F0%9F%A4%96;Full-Stack+Developer+%F0%9F%92%BB;CS+%2B+Business+Student+%F0%9F%8E%93)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=500&lines=Autonomy+Engineer+%40+WARG+%F0%9F%9A%81;IT+%2F+SWE+Intern+%40+WHN+%F0%9F%92%8A;Computer+Vision+%26+AI+%F0%9F%A4%96;Full-Stack+Developer+%F0%9F%92%BB;CS+%2B+Business+Student+%F0%9F%8E%93)](https://git.io/typing-svg)
 
 <br/>
 
@@ -20,7 +20,7 @@
 ```ts
 const jayden = {
   program:   "CS & BBA Double Degree @ UWaterloo + Wilfrid Laurier (2025–2030)",
-  role:      "Autonomy Engineer @ Waterloo Aerial Robotics Group (WARG)",
+  roles:     ["Autonomy Engineer @ WARG", "IT / SWE Intern @ World Health Network"],
   focus:     ["Computer Vision", "Full-Stack Dev", "AI/ML", "Entrepreneurship"],
   currently: "Building things that merge code with the real world",
   funFact:   "I turn audio into sheet music and faces into geometry 🎵📐",
@@ -132,6 +132,7 @@ AI-driven **facial geometry analysis** using Computer Vision. Extracts facial la
 | Role | Org | Period |
 |------|-----|--------|
 | 🚁 Autonomy Engineer | Waterloo Aerial Robotics Group | Present |
+| 💊 IT / SWE Intern | World Health Network (WHN) | Present |
 | 🤖 AI Instructor | DPCDSB | 2024 |
 | 💻 Software Developer Intern | FuturIQ Inc. | 2023 – 2024 |
 
