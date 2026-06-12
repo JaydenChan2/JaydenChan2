@@ -132,7 +132,7 @@ AI-driven **facial geometry analysis** using Computer Vision. Extracts facial la
 | Role | Org | Period |
 |------|-----|--------|
 | 🚁 Autonomy Engineer | Waterloo Aerial Robotics Group | Present |
-| 💊 IT / SWE Intern | World Health Network (WHN) | Present |
+| 💊 Software Engineer Intern | World Health Network (WHN) | Present |
 | 🤖 AI Instructor | DPCDSB | 2024 |
 | 💻 Software Developer Intern | FuturIQ Inc. | 2023 – 2024 |
 
