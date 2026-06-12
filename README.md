@@ -20,7 +20,7 @@
 ```ts
 const jayden = {
   program:   "CS & BBA Double Degree @ UWaterloo + Wilfrid Laurier (2025–2030)",
-  roles:     ["Autonomy Engineer @ WARG", "IT / SWE Intern @ World Health Network"],
+  roles:     ["Autonomy Engineer @ WARG", "Software Engineer Intern @ World Health Network"],
   focus:     ["Computer Vision", "Full-Stack Dev", "AI/ML", "Entrepreneurship"],
   currently: "Building things that merge code with the real world",
   funFact:   "I turn audio into sheet music and faces into geometry 🎵📐",
