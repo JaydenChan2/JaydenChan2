@@ -61,10 +61,10 @@ AI-driven **facial geometry analysis** using Computer Vision. Extracts facial la
 </td>
 <td width="50%">
 
-### 🏠 [Roomies](https://github.com/JaydenChan2/Roomies)
-**Tinder-style roommate matching** for university students. Smart preference filtering to connect students with compatible housing partners.
+### 📋 [Job Application Tracker](https://github.com/JaydenChan2/Job-Application-Tracker)
+**Full-stack job search organizer** with JWT auth, application status history, contacts, and notes tracking.
 
-**Stack:** `Next.js` `PostgreSQL` `Node.js` `Express` `Redis`
+**Stack:** `Next.js` `PostgreSQL` `Node.js` `Express` `Prisma`
 
 </td>
 </tr>
@@ -144,5 +144,9 @@ AI-driven **facial geometry analysis** using Computer Vision. Extracts facial la
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio-link.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jaydenchan)
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=JaydenChan2&color=A78BFA&style=flat-square&label=Profile+Views)
 
 </div>
