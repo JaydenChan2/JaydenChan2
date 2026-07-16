@@ -20,7 +20,7 @@
 ```ts
 const jayden = {
   program:   "CS & BBA Double Degree @ UWaterloo + Wilfrid Laurier (2025–2030)",
-  roles:     ["Autonomy Engineer @ WARG", "IT / SWE Intern @ World Health Network"],
+  roles:     ["Autonomy Engineer @ WARG", "Software Engineer Intern @ World Health Network"],
   focus:     ["Computer Vision", "Full-Stack Dev", "AI/ML", "Entrepreneurship"],
   currently: "Building things that merge code with the real world",
   funFact:   "I turn audio into sheet music and faces into geometry 🎵📐",
@@ -132,7 +132,7 @@ AI-driven **facial geometry analysis** using Computer Vision. Extracts facial la
 | Role | Org | Period |
 |------|-----|--------|
 | 🚁 Autonomy Engineer | Waterloo Aerial Robotics Group | Present |
-| 💊 IT / SWE Intern | World Health Network (WHN) | Present |
+| 💊 Software Engineer Intern | World Health Network (WHN) | Present |
 | 🤖 AI Instructor | DPCDSB | 2024 |
 | 💻 Software Developer Intern | FuturIQ Inc. | 2023 – 2024 |
 
