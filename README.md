@@ -1,152 +1,179 @@
+<!-- Header wave -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:A78BFA,100:22D3EE&height=200&section=header&text=Jayden%20Chan&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=CS%20%2B%20BBA%20%40%20UWaterloo%20%26%20Laurier&descAlignY=55&descSize=18&animation=fadeIn" />
+</p>
+
 <div align="center">
 
-# Jayden Chan
-### CS & BBA Double Degree @ University of Waterloo + Wilfrid Laurier
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=700&color=A78BFA&center=true&vCenter=true&width=560&lines=Autonomy+Engineer+%40+WARG+%F0%9F%9A%81;SWE+Intern+%40+World+Health+Network+%F0%9F%92%8A;Computer+Vision+%2B+AI+%F0%9F%A4%96;Full-Stack+Developer+%F0%9F%92%BB;Turning+audio+into+sheet+music+%F0%9F%8E%B5)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=500&lines=Autonomy+Engineer+%40+WARG+%F0%9F%9A%81;IT+%2F+SWE+Intern+%40+WHN+%F0%9F%92%8A;Computer+Vision+%26+AI+%F0%9F%A4%96;Full-Stack+Developer+%F0%9F%92%BB;CS+%2B+Business+Student+%F0%9F%8E%93)](https://git.io/typing-svg)
-
-<br/>
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://www.jaydenchan.xyz/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jayden-d-chan)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JaydenChan2)
+<a href="https://www.jaydenchan.xyz/"><img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=A78BFA" /></a>
+<a href="https://linkedin.com/in/jayden-d-chan"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=A78BFA" /></a>
+<a href="https://github.com/JaydenChan2"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=A78BFA" /></a>
+<img src="https://komarev.com/ghpvc/?username=JaydenChan2&color=A78BFA&style=for-the-badge&label=PROFILE+VIEWS" />
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 👾 About Me
+## 👾 whoami
+
+<table>
+<tr>
+<td width="58%" valign="top">
 
 ```ts
 const jayden = {
-  program:   "CS & BBA Double Degree @ UWaterloo + Wilfrid Laurier (2025–2030)",
-  roles:     ["Autonomy Engineer @ WARG", "Software Engineer Intern @ World Health Network"],
-  focus:     ["Computer Vision", "Full-Stack Dev", "AI/ML", "Entrepreneurship"],
+  program:   "CS & BBA Double Degree @ UWaterloo + Laurier",
+  gradYear:  2030,
+  roles: [
+    "Autonomy Engineer @ WARG 🚁",
+    "Software Engineer Intern @ World Health Network 💊",
+  ],
+  focus:     ["Computer Vision", "Full-Stack", "AI/ML", "Entrepreneurship"],
   currently: "Building things that merge code with the real world",
   funFact:   "I turn audio into sheet music and faces into geometry 🎵📐",
 };
 ```
 
----
-
-## 🚀 Featured Projects
-
-<table>
-<tr>
-<td width="50%">
-
-### 🎵 [Music-to-Sheet-Converter](https://github.com/JaydenChan2/Music-to-Sheet-Converter)
-Converts **MP3/MP4 audio into readable sheet music** using signal processing and ML-based pitch detection. Transcribes real-world audio into notation — no manual input needed.
-
-**Stack:** `Python` `Librosa` `DSP` `NumPy` `Matplotlib`
-
 </td>
-<td width="50%">
+<td width="42%" valign="top">
 
-### 🔗 [Lynx](https://github.com/arjunalwe/Lynx)
-A **full-stack link management platform** built with a team. Features smart link analytics, custom slugs, and a fast dashboard for tracking traffic.
+🔭 &nbsp;Working on drone autonomy at **WARG**
 
-**Stack:** `Next.js` `TypeScript` `Node.js` `PostgreSQL` `Redis`
+🌱 &nbsp;Going deeper on **CV, ML and edge computing**
 
-</td>
-</tr>
-<tr>
-<td width="50%">
+💼 &nbsp;Mixing engineering with the **business** side
 
-### 🧠 [Chud.ai](https://github.com/JaydenChan2/chud-ai)
-AI-driven **facial geometry analysis** using Computer Vision. Extracts facial landmarks with OpenCV + MediaPipe to derive structural insights in real-time.
+💬 &nbsp;Ask me about **DSP, CV pipelines, or startups**
 
-**Stack:** `Python` `OpenCV` `MediaPipe` `TensorFlow`
-
-</td>
-<td width="50%">
-
-### 📋 [Job Application Tracker](https://github.com/JaydenChan2/Job-Application-Tracker)
-**Full-stack job search organizer** with JWT auth, application status history, contacts, and notes tracking.
-
-**Stack:** `Next.js` `PostgreSQL` `Node.js` `Express` `Prisma`
+⚡ &nbsp;Always down to hack on something weird
 
 </td>
 </tr>
 </table>
 
----
+## 🚀 Featured Builds
 
-## 🛠️ Tech Stack
+<table>
+<tr>
+<td width="50%" valign="top">
 
-**Languages**
+### 🎵 [Music-to-Sheet-Converter](https://github.com/JaydenChan2/Music-to-Sheet-Converter)
+Turns **MP3/MP4 audio into readable sheet music** with signal processing and ML-based pitch detection. Real-world audio in, notation out, no manual input.
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
-![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-E34F26?style=flat-square&logo=html5&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Librosa](https://img.shields.io/badge/-Librosa-FF6B6B?style=flat-square)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![DSP](https://img.shields.io/badge/-DSP-7C3AED?style=flat-square)
 
-**Frameworks**
+</td>
+<td width="50%" valign="top">
 
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-404D59?style=flat-square&logo=express&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+### 🧠 [Chud.ai](https://github.com/JaydenChan2/chud-ai)
+Real-time **facial geometry analysis**. Pulls landmarks with OpenCV + MediaPipe and derives structural insights on the fly.
 
-**Libraries**
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![MediaPipe](https://img.shields.io/badge/-MediaPipe-0097A7?style=flat-square&logo=google&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square&logo=google&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![Librosa](https://img.shields.io/badge/Librosa-FF6B6B?style=flat-square&logo=python&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-**Databases & Infra**
+### 🔗 [Lynx](https://github.com/arjunalwe/Lynx)
+Team-built **link management platform** with smart analytics, custom slugs and a fast traffic dashboard.
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=flat-square&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![FFmpeg](https://img.shields.io/badge/FFmpeg-007808?style=flat-square&logo=ffmpeg&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 
-**Tools**
+</td>
+<td width="50%" valign="top">
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=flat-square&logo=visual%20studio%20code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+### 📋 [Job Application Tracker](https://github.com/JaydenChan2/Job-Application-Tracker)
+**Full-stack job search organizer** with JWT auth, status history, contacts and notes. Built because spreadsheets were losing.
 
-**Concepts**
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-404D59?style=flat-square&logo=express&logoColor=white)
+![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 
-`RAG Pipelines` &nbsp;`LLMs` &nbsp;`Computer Vision` &nbsp;`Digital Signal Processing` &nbsp;`JWT Authentication` &nbsp;`RESTful APIs` &nbsp;`Agile Development`
+</td>
+</tr>
+</table>
 
----
-
-## 🏆 Experience
-
-| Role | Org | Period |
-|------|-----|--------|
-| 🚁 Autonomy Engineer | Waterloo Aerial Robotics Group | Present |
-| 💊 Software Engineer Intern | World Health Network (WHN) | Present |
-| 🤖 AI Instructor | DPCDSB | 2024 |
-| 💻 Software Developer Intern | FuturIQ Inc. | 2023 – 2024 |
-
----
+## 🛠️ Toolbox
 
 <div align="center">
 
-**Let's connect and build something cool.**
+**Languages**<br/>
+<img src="https://skillicons.dev/icons?i=py,ts,js,java,cpp,c,mysql,bash,html,css&theme=dark" />
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://www.jaydenchan.xyz/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jaydenchan)
+**Frameworks**<br/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,fastapi,flask&theme=dark" />
 
+**ML / CV / Data**<br/>
+<img src="https://skillicons.dev/icons?i=tensorflow,opencv&theme=dark" />
 <br/>
+![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge&logo=google&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Librosa](https://img.shields.io/badge/Librosa-FF6B6B?style=for-the-badge&logo=python&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
 
-![Profile Views](https://komarev.com/ghpvc/?username=JaydenChan2&color=A78BFA&style=flat-square&label=Profile+Views)
+**Infra & Tools**<br/>
+<img src="https://skillicons.dev/icons?i=postgres,redis,docker,aws,vercel,git,linux,vscode,postman&theme=dark" />
+<br/>
+![FFmpeg](https://img.shields.io/badge/FFmpeg-007808?style=for-the-badge&logo=ffmpeg&logoColor=white)
+
+**Concepts**<br/>
+`RAG Pipelines` · `LLMs` · `Computer Vision` · `DSP` · `JWT Auth` · `REST APIs` · `Agile`
 
 </div>
+
+## 🏆 Experience
+
+| | Role | Org | When |
+|:-:|------|-----|------|
+| 🚁 | **Autonomy Engineer** | Waterloo Aerial Robotics Group | Present |
+| 💊 | **Software Engineer Intern** | World Health Network | Present |
+| 🤖 | **AI Instructor** | DPCDSB | 2024 |
+| 💻 | **Software Developer Intern** | FuturIQ Inc. | 2023 to 2024 |
+
+## 📊 Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=JaydenChan2&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=22D3EE&text_color=C9D1D9&rank_icon=github" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaydenChan2&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&langs_count=6" />
+
+<img src="https://streak-stats.demolab.com?user=JaydenChan2&hide_border=true&background=0D1117&ring=A78BFA&fire=22D3EE&currStreakLabel=A78BFA&sideLabels=C9D1D9&dates=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF" />
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=JaydenChan2&bg_color=0D1117&color=A78BFA&line=7C3AED&point=22D3EE&area=true&area_color=7C3AED&hide_border=true" />
+
+</div>
+
+## 🐍 Contributions, but hungry
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JaydenChan2/JaydenChan2/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JaydenChan2/JaydenChan2/output/github-snake.svg" />
+  <img alt="snake eating contributions" src="https://raw.githubusercontent.com/JaydenChan2/JaydenChan2/output/github-snake-dark.svg" />
+</picture>
+
+<div align="center">
+
+### Let's connect and build something cool 🤝
+
+<a href="https://www.jaydenchan.xyz/"><img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=A78BFA" /></a>
+<a href="https://linkedin.com/in/jayden-d-chan"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=A78BFA" /></a>
+
+</div>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:22D3EE,50:A78BFA,100:7C3AED&height=120&section=footer" />
+</p>
