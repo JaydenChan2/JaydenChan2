@@ -83,13 +83,13 @@ Real-time **facial geometry analysis**. Pulls landmarks with OpenCV + MediaPipe 
 <tr>
 <td width="50%" valign="top">
 
-### 🔗 [Lynx](https://github.com/arjunalwe/Lynx)
-Team-built **link management platform** with smart analytics, custom slugs and a fast traffic dashboard.
+### 📈 [Shopify Trend Analyzer](https://github.com/JaydenChan2/Shopify-Trend-Analyzer)
+A **Shopify app that tells you if a product is a lasting trend or a short-lived spike**. Pulls Wikipedia pageview data and runs it through a Python model to label each product. [Live demo](https://spike-or-stay-ecsk.onrender.com)
 
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Ruby on Rails](https://img.shields.io/badge/-Rails-CC0000?style=flat-square&logo=rubyonrails&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Shopify](https://img.shields.io/badge/-Shopify-7AB55C?style=flat-square&logo=shopify&logoColor=white)
+![Wikipedia API](https://img.shields.io/badge/-Wikipedia_API-000000?style=flat-square&logo=wikipedia&logoColor=white)
 
 </td>
 <td width="50%" valign="top">
