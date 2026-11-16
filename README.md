@@ -148,7 +148,7 @@ Team-built **link management platform** with smart analytics, custom slugs and a
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=JaydenChan2&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=22D3EE&text_color=C9D1D9&rank_icon=github" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=JaydenChan2&show_icons=true&include_all_commits=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=22D3EE&text_color=C9D1D9&rank_icon=github" />
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaydenChan2&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&langs_count=6" />
 
 <img src="https://streak-stats.demolab.com?user=JaydenChan2&hide_border=true&background=0D1117&ring=A78BFA&fire=22D3EE&currStreakLabel=A78BFA&sideLabels=C9D1D9&dates=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF" />
