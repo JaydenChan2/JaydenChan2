@@ -148,15 +148,14 @@ A **Shopify app that tells you if a product is a lasting trend or a short-lived 
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=JaydenChan2&show_icons=true&include_all_commits=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=22D3EE&text_color=C9D1D9&rank_icon=github" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaydenChan2&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&langs_count=6" />
+<img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JaydenChan2&theme=tokyonight" />
+<img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JaydenChan2&theme=tokyonight" />
 
-<img src="https://streak-stats.demolab.com?user=JaydenChan2&hide_border=true&background=0D1117&ring=A78BFA&fire=22D3EE&currStreakLabel=A78BFA&sideLabels=C9D1D9&dates=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF" />
+<img src="https://streak-stats.demolab.com?user=JaydenChan2&hide_total_contributions=true&hide_border=true&background=0D1117&ring=A78BFA&fire=22D3EE&currStreakLabel=A78BFA&sideLabels=C9D1D9&dates=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF" />
 
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=JaydenChan2&bg_color=0D1117&color=A78BFA&line=7C3AED&point=22D3EE&area=true&area_color=7C3AED&hide_border=true" />
 
 </div>
-
 ## 🐍 Contributions, but hungry
 
 <picture>
