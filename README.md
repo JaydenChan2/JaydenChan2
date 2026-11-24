@@ -1,11 +1,4 @@
-<!-- Header wave -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:A78BFA,100:22D3EE&height=200&section=header&text=Jayden%20Chan&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=CS%20%2B%20BBA%20%40%20UWaterloo%20%26%20Laurier&descAlignY=55&descSize=18&animation=fadeIn" />
-</p>
-
 <div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=700&color=A78BFA&center=true&vCenter=true&width=560&lines=Autonomy+Engineer+%40+WARG+%F0%9F%9A%81;SWE+Intern+%40+World+Health+Network+%F0%9F%92%8A;Computer+Vision+%2B+AI+%F0%9F%A4%96;Full-Stack+Developer+%F0%9F%92%BB;Turning+audio+into+sheet+music+%F0%9F%8E%B5)](https://git.io/typing-svg)
 
 <a href="https://www.jaydenchan.xyz/"><img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=A78BFA" /></a>
 <a href="https://linkedin.com/in/jayden-d-chan"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=A78BFA" /></a>
@@ -143,36 +136,3 @@ A **Shopify app that tells you if a product is a lasting trend or a short-lived 
 | 💊 | **Software Engineer Intern** | World Health Network | Present |
 | 🤖 | **AI Instructor** | DPCDSB | 2024 |
 | 💻 | **Software Developer Intern** | FuturIQ Inc. | 2023 to 2024 |
-
-## 📊 Stats
-
-<div align="center">
-
-<img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JaydenChan2&theme=tokyonight" />
-<img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JaydenChan2&theme=tokyonight" />
-
-<img src="https://streak-stats.demolab.com?user=JaydenChan2&hide_total_contributions=true&hide_border=true&background=0D1117&ring=A78BFA&fire=22D3EE&currStreakLabel=A78BFA&sideLabels=C9D1D9&dates=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF" />
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=JaydenChan2&bg_color=0D1117&color=A78BFA&line=7C3AED&point=22D3EE&area=true&area_color=7C3AED&hide_border=true" />
-
-</div>
-## 🐍 Contributions, but hungry
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JaydenChan2/JaydenChan2/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JaydenChan2/JaydenChan2/output/github-snake.svg" />
-  <img alt="snake eating contributions" src="https://raw.githubusercontent.com/JaydenChan2/JaydenChan2/output/github-snake-dark.svg" />
-</picture>
-
-<div align="center">
-
-### Let's connect and build something cool 🤝
-
-<a href="https://www.jaydenchan.xyz/"><img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=A78BFA" /></a>
-<a href="https://linkedin.com/in/jayden-d-chan"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=A78BFA" /></a>
-
-</div>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:22D3EE,50:A78BFA,100:7C3AED&height=120&section=footer" />
-</p>
